@@ -1,0 +1,16 @@
+<Solution>
+  <Project Path="API/API.csproj" />
+  <Project Path="Constants/Constants.csproj" />
+  <Project Path="Entities/Entities.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="Migrations.MySQL/Migrations.MySQL.csproj" />
+  <Project Path="Migrations.PostgreSQL/Migrations.PostgreSQL.csproj" />
+  <Project Path="Migrations.Core/Migrations.Core.csproj" />
+  <Project Path="Logger/Logger.csproj" />
+  <Project Path="Model/Model.csproj" />
+  <Project Path="Query/Query.csproj" />
+  <Project Path="Repository/Repository.csproj" />
+  <Project Path="Service/Service.csproj" />
+  <Project Path="Tests/Tests.csproj" />
+  <Project Path="UnitOfWork/UnitOfWork.csproj" />
+</Solution>
